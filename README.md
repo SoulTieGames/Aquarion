@@ -1,6 +1,6 @@
 # Aquarion
-EZ-Flash Omega CFW
-This CFW is based on both the open source EZ_-Flash FW, and 
+EZ-Flash Omega Custom theme.
+This theme is based on both the open source EZ_-Flash FW, and 
 Sterophonick's simpleLight theme (https://github.com/Sterophonick/SimpleLight). Kudos!
 All the features of simpleLight are included with this release, along with added features (menu music, additional options, etc).
 
@@ -20,3 +20,11 @@ Easy peasy.
 I was planning on adding more to this, but I've been busy with other projects.
 
 
+Credits
+EZ-FLASH - The original firmware & hardware creators
+Kuwanger - PogoShell plugin integration
+Soultie - Aquarion theme
+Sterophonick - SIMPLE theme for EZO & EZODE
+fluBBa - SMSAdvance, MSXAdvance, Cologne for GBA, Goomba for GBA (Original), PCEAdvance, PocketNES, SNESAdvance, Wasabi, NGPAdvance, SwanAdvance
+Jaga - Jaga's Goomba Color fork
+...and others!

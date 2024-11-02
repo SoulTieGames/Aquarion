@@ -20,6 +20,10 @@ Easy peasy.
 
 I was planning on adding more to this, but I've been busy with other projects.
 
+![20241101_191513](https://github.com/user-attachments/assets/342b4ec7-554a-48ee-96b6-7fc89c30ade8)
+![20241101_191446](https://github.com/user-attachments/assets/026b80f3-402c-4f63-bfc7-c87e176d3035)
+![20241101_191441](https://github.com/user-attachments/assets/44b624b3-7310-41af-993b-4ca83d04d760)
+
 
 # Credits
 #### EZ-FLASH - The original firmware & hardware creators
